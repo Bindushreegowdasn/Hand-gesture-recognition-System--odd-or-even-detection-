@@ -1,1 +1,1 @@
-# Hand-resture-recognition-system--odd-or-even-detection-
+# Hand-gesture-recognition-system--odd-or-even-detection-
